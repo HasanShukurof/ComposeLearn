@@ -1,5 +1,5 @@
 [versions]
-agp = "8.9.0"
+agp = "8.9.2"
 firebaseCrashlyticsGradle = "3.0.6"
 googleServices = "4.4.4"
 gradle = "8.9.3"
